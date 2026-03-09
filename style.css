@@ -1,0 +1,20 @@
+
+
+h1{
+    font-size: 75px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    position: absolute;
+    left: 46%;
+
+}
